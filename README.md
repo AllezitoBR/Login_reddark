@@ -5,8 +5,8 @@
 
 <h2>🛠️ Construído com: </h2>
 
-✅ HTML
-✅ CSS
+✅ HTML <br>
+✅ CSS <br>
 ⛔ Javascipt
 
 <h4 align="center"> 
