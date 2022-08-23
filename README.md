@@ -7,7 +7,7 @@
 
 [x] HTML
 [x] CSS
-[] Javascipt
+[ ] Javascipt
 
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
